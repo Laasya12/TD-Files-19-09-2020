@@ -11,7 +11,6 @@ Welcome to E-Commerce Project
    :numbered:
    
    file1.md
-   file2.md
    file3.md
 
 
